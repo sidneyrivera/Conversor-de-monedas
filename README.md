@@ -6,7 +6,7 @@ Este proyecto es mi entrega para el challenge 01 de ONE Java: Conversor de Divis
 #### Opciones de conversión
 > El conversor utiliza las monedas Peso Mexicano, Dolar Estadounidense, Euro, Libra Esterlina, Yen Japonés y Won Coreano.
 
-★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★
+★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜
 
 ## ⭐ Funcionamiento
 Al iniciar el programa podrás ver el mensaje de bienvenida, donde podrás elegir entre ver la siguiente ventana o cancelar la ejecución.
@@ -48,7 +48,7 @@ Finalmente tendrás la opción de reanudar el programa para hacer otras conversi
 
 ![image](https://github.com/sidneyrivera/Conversor-de-monedas/assets/134988896/5831d305-a186-4d76-957c-d6dcb7083811)
 
-★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★
+★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜
 
 ## 🍏 Creador
 ¡Gracias por llegar hasta aquí! Este proyecto es para la generación 5 de Oracle Next Education, la colaboración de Oracle y Alura LATAM.
