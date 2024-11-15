@@ -60,7 +60,7 @@ Puedes contactarme en:
 https://github.com/sidneyrivera
 
 🐰
-https://www.linkedin.com/in/-sidneyrivera/
+https://www.linkedin.com/in/ing.sidneyrivera/
 
 ![WarmSnowGIF](https://github.com/sidneyrivera/Conversor-de-monedas/assets/134988896/bb88b3a8-b719-4c6c-a782-af12c52f82d6)
 
